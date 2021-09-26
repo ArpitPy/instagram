@@ -5,7 +5,7 @@ require('firebase/compat/auth')
 require('firebase/compat/storage')
 
 const firebaseApp=firebase.initializeApp({
-    apiKey: "AIzaSyB-MIAU487I3kQq-_ZqJgjmD-PTKvl-7iI",
+    apiKey: "USE YOUR OWN",
     authDomain: "gcoea-instagram.firebaseapp.com",
     projectId: "gcoea-instagram",
     storageBucket: "gcoea-instagram.appspot.com",
